@@ -1,6 +1,6 @@
 # mitsuba2transforms
 
-Small helper script that generates camera transform matrices from mitsuba scenes
+Small helper script that generates camera transform matrices from mitsuba scenes, compatible with `instant-ngp`
 
 Useful when training NERF on mitsuba scenes.
 
